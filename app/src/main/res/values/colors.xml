@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F8F8F8</color>
+    <color name="colorPrimaryDark">#555555</color>
+    <color name="colorAccent">#02BDEE</color>
+    <color name="bottom_view_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="button_color">#007c91</color>
+    <color name="app_background">#FFFFFF</color>
+    <color name="btn_text_color">#FFFFFF</color>
+    <color name="btn_back_color">#02BDEE</color>
+    <color name="txt_color">#555555</color>
+    <color name="edt_hint_color">#78909C</color>
+    <color name="edt_text_color">#FFFFFF</color>
+</resources>
